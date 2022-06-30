@@ -14,3 +14,17 @@ To github.com:hostingbr00/hostingbr00.github.io.git
    acd6243..bfb94d9  main -> main
 
 
+----------
+
+Thu Jun 30 2022 12:53:12 GMT-0300 (Brasilia Standard Time)
+
+To github.com:hostingbr00/hostingbr00.github.io.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:hostingbr00/hostingbr00.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
